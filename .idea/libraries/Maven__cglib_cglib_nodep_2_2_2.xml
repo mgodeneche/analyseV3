@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: cglib:cglib-nodep:2.2.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/2.2.2/cglib-nodep-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar/guava-16.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/2.2.2/cglib-nodep-2.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/2.2.2/cglib-nodep-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
